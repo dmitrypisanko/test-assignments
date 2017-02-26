@@ -1,0 +1,17 @@
+{
+  "name": "appointment-finder",
+  "version": "1.0.0",
+  "description": "Find possible time for meeting",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Dmitry Pisanko",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "engines": {
+    "node": ">= 6"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "calculation-by-using-words",
+  "version": "1.0.0",
+  "description": "Calculations by using words. No numbers or operation signs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Dmitry Pisanko",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "engines": {
+    "node": ">= 6"
+  }
+}

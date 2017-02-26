@@ -1,0 +1,17 @@
+{
+  "name": "default-arguments",
+  "version": "1.0.0",
+  "description": " It takes a function as an argument, along with an object containing default values for that function's arguments, and returns another function which defaults to the right values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Dmitry Pisanko",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "engines": {
+    "node": ">= 6"
+  }
+}

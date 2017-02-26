@@ -1,0 +1,13 @@
+{
+  "apps": [{
+    "name"				: "game",
+    "script"			: "game.js",
+    "log_date_format"	: "YYYY-MM-DD HH:mm Z",
+    "watch"				: ["./game.js"],
+    "cron_restart"      : "* * * * *",
+    "log_file"			: "./logs/game.log",
+    "error_file"		: "./logs/game.log",
+    "out_file"			: "./logs/game.log",
+    "pid_file"			: "./logs/game.pid"
+  }]
+}

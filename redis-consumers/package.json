@@ -1,0 +1,20 @@
+{
+  "name": "redis-consumers",
+  "version": "1.0.0",
+  "description": "Test assignment for OTT",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/*.js"
+  },
+  "author": "Dmitry Pisanko",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.5",
+    "redis": "^2.2.5",
+    "tracer": "^0.8.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
