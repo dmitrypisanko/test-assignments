@@ -36,7 +36,7 @@ let timeToMinutes = ( time, base = 0 ) => {
 }
 
 /**
- * @summary Found time for appointment
+ * @summary Try to find time for appointment
  *
  * @param array $schedules
  * @param number $duration
